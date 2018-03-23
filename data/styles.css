@@ -7,6 +7,15 @@
   text-align:center;
   line-height:normal;
 }
+._形状 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
 ._图片 {
 }
 ._一级标题 {
@@ -56,6 +65,15 @@
 }
 ._文本段落 {
   text-align:left;
+}
+._连接线 {
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
 }
 .line {
 }
