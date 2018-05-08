@@ -88,6 +88,8 @@
 }
 .placeholder {
 }
+.button {
+}
 .ellipse {
 }
 .text_field {
@@ -106,4 +108,7 @@
   text-align:left;
 }
 .box_3 {
+}
+.link_button {
+  color:#169BD5;
 }
